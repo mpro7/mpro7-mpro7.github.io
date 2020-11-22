@@ -10,5 +10,6 @@ order: 4
 # MIT License
 ---
 
+My name is Marcin and this is my techincal notepad. I post here ideas, issues and solutions, which I used to save in many places before, like: notepad files. Google docs or web browser tabs/favs. Within the time all this growed up and created some kind of chaos, therefore I've decided to try to store all here. I hope this will not become yet another storage :D but actually will replace in most cases what I've used before.
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+There are many of pros and cons of this idea, but I count on benefits of it and maybe I will end up not only with technical blogging.
